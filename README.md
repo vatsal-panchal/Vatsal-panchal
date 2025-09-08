@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Vatsal
 
-<!--
-**vatsal-panchal/Vatsal-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am exploring coding and web development. I enjoy learning new skills and experimenting with small projects to improve my understanding.  
 
-Here are some ideas to get you started:
+## Currently Learning
+- HTML and CSS basics
+- Frontend design concepts
+- Building small practice projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- [X/Twitter](https://x.com/Codewithvatsal)
+
+I am continuously learning and improving my skills.
