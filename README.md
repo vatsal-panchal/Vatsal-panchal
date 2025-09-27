@@ -3,12 +3,11 @@
 # 👋 Hi, I'm Vatsal  
 
 <p align="center">
-  <span style="font-size:18px; color:#00bfff;">
+  <span style="font-size:22px; color:#1abc9c;">
     I’m a frontend developer currently learning and building web interfaces through hands-on projects,<br>
     with a focus on responsive layouts and writing clean, maintainable code.
   </span>
 </p>
-
 
 </div>
 
