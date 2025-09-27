@@ -20,7 +20,7 @@
 </p>
 
 <ul>
-  <li><a href="https://vatsal-project.netlify.app/">GitHub Profile Finder</a></li>
+  <li><a href="https://vatsal-project.netlify.app/"> GitHub Profile Finder</a></li>
   <li><a href="https://vatsal-panchal.github.io/movie-clone-htmll-css/">Movie Home UI</a></li>
   <li><a href="https://vatsal-panchal.github.io/otp-generator/">OTP Generator</a></li>
   <li><a href="https://vatsal-panchal.github.io/sonicBud/">Sonic Web UI</a></li>
