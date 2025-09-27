@@ -13,6 +13,30 @@
 
 ---
 
+##  My Projects
+
+<p align="center">
+  Click any project to open directly:
+</p>
+
+<ul>
+  <li><a href="https://vatsal-project.netlify.app/">GitHub Profile Finder</a></li>
+  <li><a href="https://vatsal-panchal.github.io/movie-clone-htmll-css/">Movie Home UI</a></li>
+  <li><a href="https://vatsal-panchal.github.io/otp-generator/">OTP Generator</a></li>
+  <li><a href="https://vatsal-panchal.github.io/sonicBud/">Sonic Web UI</a></li>
+  <li><a href="https://vatsal-panchal.github.io/music-ui/">Music UI</a></li>
+  <li><a href="https://vatsal-panchal.github.io/create-card/">Profile Generator</a></li>
+  <li><a href="https://vatsal-panchal.github.io/shoes-website/">Shoes UI</a></li>
+  <li><a href="https://vatsal-panchal.github.io/Youtubehomepage-clone-html-css/">YouTube Home UI</a></li>
+  <li><a href="https://vatsal-panchal.github.io/headphones-ui/">Basic Headphones UI</a></li>
+  <li><a href="https://vatsal-panchal.github.io/sheryians-clone/">Sheryians UI</a></li>
+  <li><a href="https://vatsal-panchal.github.io/Responsive-Navbar/">Beginner Friendly Navbar</a></li>
+</ul>
+
+
+
+---
+
 ##  Technical Skills  
 
 <p align="center">
@@ -26,14 +50,14 @@
   <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-- Creating responsive and user-friendly interfaces  
+- Creating responsive and user-friendly web interfaces  
 - Writing clean, maintainable frontend code  
 - Building small projects to practice and improve skills  
 - Version control and collaboration using **Git & GitHub**
 
 ---
 
-##  Connect with Me  
+## 📫 Connect with Me  
 
 <p align="center">
   <a href="https://x.com/Codewithvatsal" target="_blank">
