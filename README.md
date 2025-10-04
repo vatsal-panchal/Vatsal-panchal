@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Vatsal  
+#  Hi, I'm Vatsal  
 
 <p align="center">
   <span style="font-size:22px; color:#1abc9c;">
@@ -81,4 +81,5 @@
 
  Focused on **continuous learning and growth** in frontend development.  
 
-</div>
+</div> 
+
