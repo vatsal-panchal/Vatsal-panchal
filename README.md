@@ -12,29 +12,6 @@
 </div>
 
 ---
-
-##  My Projects
-
-<p align="center">
-  Click any project to open directly:
-</p>
-
-<ul>
-  <li><a href="https://vatsal-project.netlify.app/"> GitHub Profile Finder</a></li>
-  <li><a href="https://vatsal-panchal.github.io/movie-clone-htmll-css/">Movie Home UI</a></li>
-  <li><a href="https://vatsal-panchal.github.io/otp-generator/">OTP Generator</a></li>
-  <li><a href="https://vatsal-panchal.github.io/sonicBud/">Sonic Web UI</a></li>
-  <li><a href="https://vatsal-panchal.github.io/music-ui/">Music UI</a></li>
-  <li><a href="https://vatsal-panchal.github.io/create-card/">Profile Generator</a></li>
-  <li><a href="https://vatsal-panchal.github.io/shoes-website/">Shoes UI</a></li>
-  <li><a href="https://vatsal-panchal.github.io/Youtubehomepage-clone-html-css/">YouTube Home UI</a></li>
-  <li><a href="https://vatsal-panchal.github.io/headphones-ui/">Basic Headphones UI</a></li>
-  <li><a href="https://vatsal-panchal.github.io/sheryians-clone/">Sheryians UI</a></li>
-  <li><a href="https://vatsal-panchal.github.io/Responsive-Navbar/">Beginner Friendly Navbar</a></li>
-</ul>
-
-
-
 ---
 
 ##  Technical Skills  
