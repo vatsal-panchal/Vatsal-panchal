@@ -35,15 +35,6 @@ I’m a passionate **Frontend Developer** who loves turning ideas into clean, mo
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=vatsal-panchal&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-panchal&theme=radical" />
-</p>
-
----
-
 ##  Connect With Me
 
 <p align="center">
