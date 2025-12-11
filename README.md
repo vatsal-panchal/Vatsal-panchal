@@ -30,7 +30,7 @@ I’m a passionate **Frontend Developer** who loves turning ideas into clean, mo
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
 ---
