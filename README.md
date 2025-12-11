@@ -63,12 +63,4 @@ const vatsal = {
   </a>
 </p>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=flat-square" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <sub>💜 Built with passion | ⚡ Powered by coffee | 🚀 Always learning</sub>
-</div>
