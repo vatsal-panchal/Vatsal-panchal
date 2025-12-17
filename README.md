@@ -1,89 +1,71 @@
-<!-- ---------------------------------------------------------
-      Hi, I'm Vatsal Panchal 👋 | Frontend Developer
------------------------------------------------------------ -->
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vatsal+Panchal+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
+  
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vatsal+Panchal+%F0%9F%91%8B;Frontend+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
+
+  <!-- Coding Animation SVG -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding Animation" />
+
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" />
-</p>
+## 👨‍💻 About Me
 
----
+**Frontend Developer** passionate about creating beautiful, performant web experiences.
 
-## 🚀 About Me
+-  Specializing in **React**, **TypeScript** & **Tailwind CSS**
+-  Based in Ahmedabad, Gujarat 🇮🇳
+- Focused on Responsive Design, Animations & Performance Optimization
 
-I'm a passionate **Frontend Developer** who loves turning ideas into clean, modern and smooth web experiences.
+<div align="center">
+  
+  <!-- Developer Workspace SVG -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Workspace" />
 
-```javascript
-const vatsal = {
-  role: "Frontend Developer",
-  location: "Ahmedabad, Gujarat 🇮🇳",
-  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    tools: ["VS Code", "Git", "GitHub", "Figma"]
-  },
-  focus: ["UI/UX", "Animations", "Responsive Design"],
-  currentlyLearning: "React & Next.js"
-};
-```
+</div>
 
-### 💡 What I Love
+## 🔥 What I Do
 
-- 🎨 Building pixel-perfect, responsive interfaces  
-- ✨ Creating smooth animations & micro-interactions  
-- 📝 Writing clean, maintainable code  
-- 🎯 Turning Figma designs into reality  
+ Build responsive, accessible web applications  
+Create engaging user interfaces with modern frameworks  
+ Optimize performance and user experience  
 
----
+##  Tech Stack
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### **Frontend**
-
+**Frontend & Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" />
 </p>
 
-### **Tools**
-
+**Tools & Workflow**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,vercel" alt="Tools" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://x.com/Codewithvatsal">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.linkedin.com/in/panchal-vatsal-097b80385/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Codewithvatsal)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panchal-vatsal-097b80385/)
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 </div>
 
 ---
 
-<p align="center">
-  <i>💬 Let's build something amazing together!</i>
-</p>
+<div align="center">
+  
+  **💬 Open to collaborate on exciting frontend projects!**
+  
+  <!-- Animated Footer -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="Footer Animation" />
+
+</div>
