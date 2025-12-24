@@ -36,7 +36,7 @@ No unnecessary complexity.
 ---
 
 ## Connect With Me
-- X (Twitter): https://x.com/Codewithvatsal  
+- X : https://x.com/Codewithvatsal  
 - LinkedIn: https://www.linkedin.com/in/panchal-vatsal-097b80385/
 
 ---
