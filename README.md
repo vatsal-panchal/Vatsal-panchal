@@ -1,46 +1,57 @@
-# Vatsal Panchal
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif; line-height: 1.6;">
 
-Frontend Developer focused on building clean, usable, and practical web interfaces.
+<h1>Vatsal Panchal</h1>
 
-I care more about **understanding how things work** than just making them work.  
+<p><strong>Frontend Developer</strong> focused on building clean, usable, and practical web interfaces.</p>
+
+<p>
+I care more about <strong>understanding how things work</strong> than just making them work.<br/>
 No unnecessary complexity.
+</p>
 
----
+<hr/>
 
-## What I Do
-- Build responsive and accessible user interfaces
-- Convert designs into clean, maintainable code
-- Focus on fundamentals instead of chasing trends
-- Learn by building real-world projects
+<h2>What I Do</h2>
 
----
+<ul>
+  <li>Build responsive and accessible user interfaces</li>
+  <li>Convert designs into clean, maintainable code</li>
+  <li>Focus on fundamentals instead of chasing trends</li>
+  <li>Learn by building real-world projects</li>
+</ul>
 
-## Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
-- TypeScript  
-- Tailwind CSS  
-- React  
-- GSAP  
-- Framer Motion  
-- Git & GitHub  
+<hr/>
 
----
+<h2>Tech Stack</h2>
 
-## Currently
-- Improving my frontend fundamentals
-- Writing cleaner and more readable React code
-- Learning by building, not just watching tutorials
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>TypeScript <em>(learning)</em></li>
+  <li>Tailwind CSS</li>
+  <li>React</li>
+  <li>GSAP <em>(working knowledge)</em></li>
+  <li>Framer Motion <em>(working knowledge)</em></li>
+</ul>
 
----
+<hr/>
 
-## Connect With Me
-- X : https://x.com/Codewithvatsal  
-- LinkedIn: https://www.linkedin.com/in/panchal-vatsal-097b80385/
+<h2>Currently</h2>
 
----
+<ul>
+  <li>Improving my frontend fundamentals</li>
+  <li>Writing cleaner and more readable React code</li>
+  <li>Learning by building, not just watching tutorials</li>
+</ul>
 
-> I prefer clarity over complexity,  
-> and depth over shortcuts.
+<hr/>
 
+<h2>Connect With Me</h2>
+
+<ul>
+  <li>X: <a href="https://x.com/Codewithvatsal">https://x.com/Codewithvatsal</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/panchal-vatsal-097b80385/">https://www.linkedin.com/in/panchal-vatsal-097b80385/</a></li>
+</ul>
+
+</div>
