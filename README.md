@@ -1,4 +1,4 @@
-# 👋 Vatsal (picasso09)
+# 👋 Vatsal
 
 Frontend dev
 
