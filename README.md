@@ -1,4 +1,4 @@
-# 👋 Vatsal
+# Vatsal
 
 Frontend Developer
 
