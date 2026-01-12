@@ -1,15 +1,13 @@
-# Vatsal
-### Frontend Developer
+MERN Stack Developer (Learning)
 
-I build clean, responsive, and user-focused interfaces with a strong focus on fundamentals and simplicity.
+I’m learning to build full-stack web apps with clean code, strong fundamentals, and simple design.
 
----
+Tech Stack
 
-## Tech Stack
-HTML · CSS · JavaScript · React · Tailwind CSS · GSAP · Motion
+HTML · CSS · JavaScript · React · Tailwind CSS · MongoDB · Express.js · Node.js
 
----
+Social
 
-## Social
-- **X (Twitter):** https://x.com/Codewithvatsal  
-- **LinkedIn:** https://www.linkedin.com/in/panchal-vatsal-097b80385/
+X (Twitter): https://x.com/Codewithvatsal
+
+LinkedIn: https://www.linkedin.com/in/panchal-vatsal-097b80385/
