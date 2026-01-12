@@ -1,13 +1,10 @@
 MERN Stack Developer (Learning)
+Learning to build full-stack web apps and improving my skills through hands-on projects.
 
-I’m learning to build full-stack web apps with clean code, strong fundamentals, and simple design.
-
-Tech Stack
-
-HTML · CSS · JavaScript · React · Tailwind CSS · MongoDB · Express.js · Node.js
+Tech
+HTML · CSS · JavaScript · React · Tailwind CSS · MongoDB · Express · Node.js
 
 Social
-
-X (Twitter): https://x.com/Codewithvatsal
+X: https://x.com/Codewithvatsal
 
 LinkedIn: https://www.linkedin.com/in/panchal-vatsal-097b80385/
