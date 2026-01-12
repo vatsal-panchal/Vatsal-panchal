@@ -1,11 +1,9 @@
-MERN Stack Developer (Learning)
+I am a Frontend Developer (Learning) focused on building modern, responsive, and interactive web interfaces.  
+I work with **HTML, CSS, JavaScript, React, Tailwind CSS, Motion, and shadcn/ui**.
 
-Learning to build full-stack web apps and improving my skills through hands-on projects.
+🔹 Currently improving my React ecosystem skills  
+🔹 Passionate about clean UI, performance, and accessibility  
 
-Tech
-HTML · CSS · JavaScript · React · Tailwind CSS · MongoDB · Express · Node.js
-
-Social
-X: https://x.com/Codewithvatsal
-
-LinkedIn: https://www.linkedin.com/in/panchal-vatsal-097b80385/
+**Socials:**  
+- X: https://x.com/Codewithvatsal  
+- LinkedIn: https://www.linkedin.com/in/panchal-vatsal-097b80385/
