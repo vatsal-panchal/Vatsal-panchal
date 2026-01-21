@@ -1,18 +1,10 @@
 👨‍💻 Vatsal
 
-Full Stack Developer
+MERN Stack Developer 👨‍💻
 
-I build complete web applications from backend to frontend.
+I craft full-stack web apps using the MERN stack – from dynamic React UIs to robust Node backends.
 
-I mainly work on backend logic, APIs, and databases, and handle frontend whenever needed.
-I focus on simple code, clean structure, and building projects that actually work in real life.
+Mainly dominate MongoDB, Express, React & Node.js for scalable, real-world projects with clean code, JWT auth, and REST APIs.
 
 Stack:
-
-MongoDB
-Express
-React
-Node.js
-REST APIs
-JWT Authentication
-Git & GitHub
+MongoDB - Express - React - Node.js - REST APIs - JWT Authentication - Git & GitHub
