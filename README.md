@@ -6,5 +6,5 @@ I craft full-stack web apps using the MERN stack – from dynamic React UIs to r
 
 Mainly dominate MongoDB, Express, React & Node.js for scalable, real-world projects with clean code, JWT auth, and REST APIs.   
 
-Stack:
+Stack:   
 MongoDB - Express - React - Node.js - REST APIs - JWT Authentication - Git & GitHub
