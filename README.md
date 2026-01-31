@@ -1,6 +1,6 @@
 👨‍💻 Vatsal
 
-MERN Stack Developer 👨‍💻
+MERN Stack Developer 
 
 I craft full-stack web apps using the MERN stack – from dynamic React UIs to robust Node backends.
 
