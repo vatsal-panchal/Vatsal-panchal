@@ -2,17 +2,13 @@
 
 Frontend Developer 
 
----
-
-## 🎮 My GitHub Activity Game
-
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
 
 ---
 
-## 💻 Skills
+##  Skills
 
 - HTML
 - CSS
