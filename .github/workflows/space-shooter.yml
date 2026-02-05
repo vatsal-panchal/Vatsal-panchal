@@ -2,7 +2,7 @@ name: Update Space Shooter GIF
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"   # 12 hours me update
   workflow_dispatch:
 
 permissions:
@@ -19,9 +19,12 @@ jobs:
       - name: Create assets folder
         run: mkdir -p assets
 
-      - name: Generate Space Shooter GIF
+      - name: Generate Advanced Space Shooter GIF
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: assets/space-shooter.gif
           strategy: random
+          game-speed: fast
+          bullet-speed: fast
+          ship-speed: fast
