@@ -2,8 +2,13 @@ name: Update Space Shooter GIF
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # 12 hours me update
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/space-shooter.yml'
 
 permissions:
   contents: write
@@ -11,20 +16,59 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0  # Full history for better commits
+      
       - name: Create assets folder
         run: mkdir -p assets
-
-      - name: Generate Advanced Space Shooter GIF
+      
+      - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: assets/space-shooter.gif
-          strategy: random
-          game-speed: fast
-          bullet-speed: fast
-          ship-speed: fast
+          # Advanced options (check action docs for available parameters)
+          difficulty: hard
+          duration: 30  # seconds
+          fps: 30
+          width: 800
+          height: 600
+          # strategy: random  # Remove if not supported
+      
+      - name: Optimize GIF
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gifsicle
+          gifsicle -O3 --colors 256 assets/space-shooter.gif -o assets/space-shooter-optimized.gif
+          mv assets/space-shooter-optimized.gif assets/space-shooter.gif
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet assets/space-shooter.gif || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and Push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/space-shooter.gif
+          git commit -m "🎮 Update Space Shooter GIF [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git push
+      
+      - name: Create Release (Optional)
+        if: steps.changes.outputs.changed == 'true'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: space-shooter-${{ github.run_number }}
+          name: Space Shooter Update ${{ github.run_number }}
+          files: assets/space-shooter.gif
+          body: |
+            🚀 New Space Shooter GIF generated!
+            
+            Generated on: ${{ github.event.repository.updated_at }}
+            Run number: ${{ github.run_number }}
