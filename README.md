@@ -1,6 +1,6 @@
-# Hi, I'm Vatsal 👋
+# I'm Vatsal
 
-Frontend Developer 
+MERN stack Developer 
 
 <p align="center">
   <img src="assets/space-shooter.gif" />
