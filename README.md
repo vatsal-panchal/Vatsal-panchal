@@ -8,14 +8,24 @@ MERN stack Developer
 
 ---
 
-##  Skills
+Skills
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
-- Framer Motion
-- shadcn/ui
-- Git & GitHub
+HTML
+
+CSS
+
+JavaScript
+
+MongoDB
+
+Express.js
+
+React.js
+
+Node.js
+
+Tailwind CSS
+
+Framer Motion
+
+Git & GitHub
