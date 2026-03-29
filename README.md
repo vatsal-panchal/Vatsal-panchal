@@ -1,6 +1,5 @@
 # I'm Vatsal
-
-MERN stack Developer 
+Fullstack dev
 
 <p align="center">
   <img src="assets/space-shooter.gif" />
